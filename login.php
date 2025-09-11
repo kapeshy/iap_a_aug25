@@ -1,3 +1,4 @@
+
 <?php
 // Include the class file
 require 'ClassAutoLoad.php';
@@ -8,6 +9,5 @@ $forms  = new forms();
 
 // Call methods
 $layout->header($conf);
-$forms->signup();
+$forms->signin();
 $layout->footer($conf);
-
