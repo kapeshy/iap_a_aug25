@@ -16,7 +16,7 @@ class SendMail {
             $mail->Host       = 'smtp.gmail.com';
             $mail->SMTPAuth   = true;
             $mail->Username   = 'atienopatience22@gmail.com';
-            $mail->Password   = 'xxyr xkbg mgfx kkjh'; // Gmail app password
+            $mail->Password   = 'xxyr xkbg mgfx kkjh'; 
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
             $mail->Port       = 465;
 

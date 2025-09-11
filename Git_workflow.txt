@@ -19,11 +19,11 @@ Git Workflow for iap_a_aug25 Project
 6. Push your local commits to the remote repository:
    git push -u origin main 
 
-7. Create a new branch for new features or bug fixes:
-   git checkout -b <branch-name>
 
-8. Merge a branch back to main after testing:
-   git checkout main
-   git merge <branch-name>
-
-9. Repeat steps 2–6 for ongoing development.
+7. Repeat steps 2–6 for ongoing development.
+  
+SUMMARY OF my iap_a_aug25 git repository
+-Add classes.php class
+-Create basic class
+-Implemented Bootstrap
+-Individual Assignment with latest project changes
